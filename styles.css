@@ -94,3 +94,13 @@ h2 {
     margin: 10px auto;
     border: 2px solid #ccc;
 }
+
+.btn-registrar{
+    width: 100%;
+    padding: 10px;
+    background-color: #69a7e2;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
